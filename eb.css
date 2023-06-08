@@ -1,0 +1,78 @@
+
+
+
+a{
+font-family: 'Times New Roman', Times, serif;
+font-size: 0.45cm;
+ margin-inline: 0.7cm; 
+}
+header{
+font-size: 1cm;
+color:  rgb(80, 92, 255);
+text-align: center;
+padding-top:0.5cm ;
+margin-top: 5cm;
+font-family: Georgia, 'Times New Roman', Times, serif};
+
+h1{
+
+font-family: 'Times New Roman', Times, serif;
+color: rgb(80, 92, 255);
+font-size: 0.5cm;
+
+
+}
+
+h8{
+font-size: 0.55cm;
+color: blue;
+border: 1px solid;
+border-radius: 1cm;
+border-width: 100%;
+
+}
+
+h5{
+font-weight: lighter;
+font-style: normal;
+font-size: 0.7cm;
+font-family:'Times New Roman', Times, serif;
+color:rgb(7, 89, 143);
+text-align: center;
+
+}
+
+p{
+font-size: 0.5cm;
+font-family: 'Times New Roman', Times, serif;
+
+}
+img {
+
+    width: 70%;
+    height: 50%;
+
+      
+
+}
+
+
+h3{
+font-size: 0.35cm;
+
+
+
+}
+ul{
+
+color: blue;
+font-size: 0.47;
+}
+
+footer{
+
+    color: rgb(7, 83, 170);
+    margin-top: 2cm;
+    text-align: center;
+}
+ 
